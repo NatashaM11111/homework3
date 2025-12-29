@@ -1,6 +1,10 @@
 import streamlit as st
 import pandas as pd
 import altair as alt
+from wordcloud import WordCloud, STOPWORDS
+import matplotlib.pyplot as plt
+from wordcloud import WordCloud, STOPWORDS
+import matplotlib.pyplot as plt
 
 # ---------- 1. Load data ----------
 
@@ -174,3 +178,24 @@ elif section == "Reviews":
                 ]
 
                 st.dataframe(filtered[columns_to_show])
+
+                # Word Cloud (bonus)
+                st.subheader("Word Cloud (Bonus)")
+
+                text_blob = " ".join(filtered["text"].dropna().astype(str).tolist())
+
+                if text_blob.strip():
+                    wc = WordCloud(
+                        width=800,
+                        height=400,
+                        background_color="white",
+                        stopwords=STOPWORDS
+                    ).generate(text_blob)
+
+                    fig, ax = plt.subplots(figsize=(10, 5))
+                    # Use the PIL image to avoid WordCloud.__array__ calling np.asarray(copy=...)
+                    ax.imshow(wc.to_image(), interpolation="bilinear")
+                    ax.axis("off")
+                    st.pyplot(fig)
+                else:
+                    st.info("Not enough review text to generate a word cloud for this month.")
