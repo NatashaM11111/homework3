@@ -1,0 +1,97 @@
+review_id,date_raw,date_parsed,stars,text,scraped_at,hf_label,hf_score,sentiment
+teal-potion-4,2023-05-18,2023-05-18T00:00:00,5,Unique flavor and great energy boost. It's the perfect gamer's drink!,2025-12-23T15:43:57.748463,POSITIVE,0.9998904466629028,Positive
+red-potion-4,2023-05-17,2023-05-17T00:00:00,5,Good flavor and keeps me energized. The bottle design is really fun.,2025-12-23T15:43:57.748627,POSITIVE,0.999889612197876,Positive
+dragon-potion-4,2023-05-16,2023-05-16T00:00:00,4,Excellent energy drink for gamers. The tropical flavor is refreshing.,2025-12-23T15:43:57.748690,POSITIVE,0.9998767375946045,Positive
+blue-energy-potion-6,2023-05-15,2023-05-15T00:00:00,5,"It’s fun, tastes good, and the energy boost is helpful during intense gaming sessions.",2025-12-23T15:43:57.748742,POSITIVE,0.999864935874939,Positive
+classic-leather-sneakers-10,2023-05-15,2023-05-15T00:00:00,5,"The best sneakers I've bought in a long time. Stylish, comfortable and the leather quality is top-notch.",2025-12-23T15:43:57.748802,POSITIVE,0.9998451471328735,Positive
+dark-red-potion-4,2023-05-12,2023-05-12T00:00:00,5,The cherry cola flavor is a win. Keeps me energized and focused.,2025-12-23T15:43:57.748857,POSITIVE,0.9998745918273926,Positive
+kids-light-up-sneakers-12,2023-05-10,2023-05-10T00:00:00,5,These shoes are a hit with my twins. They love the lights and they seem to be quite durable.,2025-12-23T15:43:57.748907,POSITIVE,0.9998632669448853,Positive
+hiking-boots-outdoor-12,2023-05-01,2023-05-01T00:00:00,5,Excellent boots for outdoor adventures. They offer great support and are very comfortable.,2025-12-23T15:43:57.748952,POSITIVE,0.9998654127120972,Positive
+cat-ear-beanie-10,2023-05-01,2023-05-01T00:00:00,4,"Nice design and good quality, but a bit too tight for me. Otherwise, it's a pretty cool beanie.",2025-12-23T15:43:57.748996,POSITIVE,0.9984560012817383,Positive
+blue-energy-potion-5,2023-04-25,2023-04-25T00:00:00,5,Really enjoyed the citrus flavor and the energy boost it gives.,2025-12-23T15:43:57.749039,POSITIVE,0.9998840093612671,Positive
+kids-light-up-sneakers-11,2023-04-25,2023-04-25T00:00:00,3,"Great concept, but the sizing is a bit off. Order a size larger.",2025-12-23T15:43:57.749089,NEGATIVE,0.9941918253898621,Negative
+chocolate-candy-box-10,2023-04-18,2023-04-18T00:00:00,5,"Delicious chocolates, and the box is pretty substantial. It'd make a nice gift.",2025-12-23T15:43:57.749131,POSITIVE,0.9998902082443237,Positive
+hiking-boots-outdoor-11,2023-04-12,2023-04-12T00:00:00,4,"The boots are durable, but the laces could be better quality.",2025-12-23T15:43:57.749173,POSITIVE,0.8142088651657104,Positive
+dragon-potion-3,2023-04-11,2023-04-11T00:00:00,5,This potion is a game changer. Love the energy boost and the flavor.,2025-12-23T15:43:57.749216,POSITIVE,0.9998190999031067,Positive
+men-running-shoes-10,2023-04-10,2023-04-10T00:00:00,5,"Light, comfortable, and nice design. I'm buying another pair.",2025-12-23T15:43:57.749258,POSITIVE,0.9998525381088257,Positive
+kids-light-up-sneakers-10,2023-04-10,2023-04-10T00:00:00,5,Highly recommend! These shoes are great for evening walks. Kids love them!,2025-12-23T15:43:57.749299,POSITIVE,0.9998764991760254,Positive
+red-potion-3,2023-04-09,2023-04-09T00:00:00,4,It's like a health potion for gamers! The energy boost is spot on.,2025-12-23T15:43:57.749339,POSITIVE,0.99863201379776,Positive
+teal-potion-3,2023-04-07,2023-04-07T00:00:00,5,Really helps me focus during intense gaming marathons. The teal color is a nice touch.,2025-12-23T15:43:57.749380,POSITIVE,0.9998599290847778,Positive
+classic-leather-sneakers-9,2023-04-07,2023-04-07T00:00:00,3,The shoes are nice but they didn't fit me well. I had to exchange for a larger size.,2025-12-23T15:43:57.749421,NEGATIVE,0.9981268048286438,Negative
+dark-red-potion-3,2023-04-05,2023-04-05T00:00:00,5,"Great taste, and the energy kick is awesome. Feels just like a strength potion.",2025-12-23T15:43:57.749462,POSITIVE,0.9998582601547241,Positive
+cat-ear-beanie-9,2023-04-05,2023-04-05T00:00:00,5,Exceptional beanie! I wear it every time I go out in cold weather. The material is comfortable and durable. Highly recommend it.,2025-12-23T15:43:57.749503,POSITIVE,0.9998824596405029,Positive
+blue-energy-potion-4,2023-04-01,2023-04-01T00:00:00,4,Great taste and doesn't give me a crash afterwards.,2025-12-23T15:43:57.749544,POSITIVE,0.9944359064102173,Positive
+women-sandals-10,2023-03-25,2023-03-25T00:00:00,4,"Good quality and fit, but the color is a bit off from the picture. Still, they're pretty.",2025-12-23T15:43:57.749585,POSITIVE,0.9950153231620789,Positive
+cat-ear-beanie-8,2023-03-25,2023-03-25T00:00:00,3,"The beanie is cute, but the cat ears were a bit floppy. Overall, I like it and wear it regularly.",2025-12-23T15:43:57.749623,POSITIVE,0.9761044979095459,Positive
+hiking-boots-outdoor-10,2023-03-24,2023-03-24T00:00:00,4,"Good quality and comfortable, but a bit pricey.",2025-12-23T15:43:57.749664,POSITIVE,0.9997726082801819,Positive
+chocolate-candy-box-9,2023-03-20,2023-03-20T00:00:00,4,"The orange flavor wasn't my favorite, but the cherry ones are great.",2025-12-23T15:43:57.749705,POSITIVE,0.999862790107727,Positive
+red-potion-2,2023-03-20,2023-03-20T00:00:00,5,"Not only does it look cool, but it tastes great and gives a good energy boost!",2025-12-23T15:43:57.749749,POSITIVE,0.9998849630355835,Positive
+dragon-potion-2,2023-03-15,2023-03-15T00:00:00,5,Just what I need for long gaming sessions. Great flavor and energy boost.,2025-12-23T15:43:57.749790,POSITIVE,0.9998794794082642,Positive
+dark-red-potion-2,2023-03-14,2023-03-14T00:00:00,5,"Definitely helped me stay focused during my long gaming nights. Plus, the bottle design is pretty cool.",2025-12-23T15:43:57.749833,POSITIVE,0.999826967716217,Positive
+teal-potion-2,2023-03-14,2023-03-14T00:00:00,4,"I love how it gives me the energy I need for my gaming sessions. Plus, no sugar crash.",2025-12-23T15:43:57.749875,POSITIVE,0.9997815489768982,Positive
+blue-energy-potion-3,2023-03-10,2023-03-10T00:00:00,5,"Finally, an energy drink for gamers! It's just like a mana potion.",2025-12-23T15:43:57.749917,NEGATIVE,0.8313126564025879,Negative
+cat-ear-beanie-7,2023-03-10,2023-03-10T00:00:00,4,"I'm not really a cat person, but I like the quality and comfort of this beanie. My friend recommended it, and I'm glad I bought it.",2025-12-23T15:43:57.749959,POSITIVE,0.9998513460159302,Positive
+men-running-shoes-9,2023-03-05,2023-03-05T00:00:00,3,"They're a good pair of running shoes for the price. They're not the best I've had, but they do the job.",2025-12-23T15:43:57.749998,POSITIVE,0.9994767308235168,Positive
+kids-light-up-sneakers-9,2023-03-05,2023-03-05T00:00:00,2,"The sneakers are fun and eye-catching, but my pair arrived with one shoe not lighting up.",2025-12-23T15:43:57.750038,NEGATIVE,0.9975760579109192,Negative
+classic-leather-sneakers-8,2023-03-01,2023-03-01T00:00:00,5,Very comfortable and the leather feels premium. Would recommend to anyone looking for classic sneakers.,2025-12-23T15:43:57.750079,POSITIVE,0.9988638162612915,Positive
+classic-leather-sneakers-7,2023-02-25,2023-02-25T00:00:00,4,"Great sneakers, but the white ones get dirty easily. Otherwise, they're perfect.",2025-12-23T15:43:57.750120,POSITIVE,0.9987898468971252,Positive
+hiking-boots-outdoor-9,2023-02-22,2023-02-22T00:00:00,5,"Love these boots. They're rugged and comfortable, perfect for outdoor activities.",2025-12-23T15:43:57.750161,POSITIVE,0.9998718500137329,Positive
+blue-energy-potion-2,2023-02-20,2023-02-20T00:00:00,5,Perfect for long gaming nights. Love the taste and the cool bottle design.,2025-12-23T15:43:57.750203,POSITIVE,0.9998824596405029,Positive
+men-running-shoes-8,2023-02-20,2023-02-20T00:00:00,5,"Comfortable, good fit, and the grip is excellent. Happy with my purchase.",2025-12-23T15:43:57.750242,POSITIVE,0.9998722076416016,Positive
+kids-light-up-sneakers-8,2023-02-20,2023-02-20T00:00:00,4,Good quality and the lights are a nice touch. My kid wears them all the time.,2025-12-23T15:43:57.750283,POSITIVE,0.9998800754547119,Positive
+dragon-potion-1,2023-02-18,2023-02-18T00:00:00,5,"The tropical flavor is really good, and the energy kick is powerful.",2025-12-23T15:43:57.750325,POSITIVE,0.9998849630355835,Positive
+women-sandals-9,2023-02-17,2023-02-17T00:00:00,5,Stunning and comfortable. I wore them to a wedding and got so many compliments.,2025-12-23T15:43:57.750371,POSITIVE,0.9998867511749268,Positive
+chocolate-candy-box-8,2023-02-15,2023-02-15T00:00:00,5,"The box is nicely packaged, making it a great gift option.",2025-12-23T15:43:57.750413,POSITIVE,0.9998840093612671,Positive
+cat-ear-beanie-6,2023-02-15,2023-02-15T00:00:00,3,It's quite nice but a little snug on my head. Maybe it's just my head size. But I love the design!,2025-12-23T15:43:57.750453,POSITIVE,0.9995028972625732,Positive
+dark-red-potion-1,2023-02-12,2023-02-12T00:00:00,4,The cherry cola flavor is very appealing. Provides a good energy boost for gaming!,2025-12-23T15:43:57.750494,POSITIVE,0.9998854398727417,Positive
+teal-potion-1,2023-02-12,2023-02-12T00:00:00,5,The mint and citrus blend is very refreshing. And the bottle design is great too!,2025-12-23T15:43:57.750535,POSITIVE,0.999884843826294,Positive
+red-potion-1,2023-02-10,2023-02-10T00:00:00,5,The berry flavor is intense and delicious. Great for keeping me focused during my gaming sessions.,2025-12-23T15:43:57.750576,POSITIVE,0.9998863935470581,Positive
+chocolate-candy-box-7,2023-01-24,2023-01-24T00:00:00,5,These chocolates are so tasty! Love the variety of flavors.,2025-12-23T15:43:57.750616,POSITIVE,0.9998853206634521,Positive
+women-sandals-8,2023-01-23,2023-01-23T00:00:00,4,"Nice sandals, but they run a bit small. I recommend ordering a size up.",2025-12-23T15:43:57.750655,POSITIVE,0.9912410378456116,Positive
+blue-energy-potion-1,2023-01-15,2023-01-15T00:00:00,4,The design is just epic! And the energy boost is real.,2025-12-23T15:43:57.750695,POSITIVE,0.9998830556869507,Positive
+men-running-shoes-7,2023-01-15,2023-01-15T00:00:00,4,Really like the design and they're great for running. They're also easy to clean.,2025-12-23T15:43:57.750735,POSITIVE,0.9998383522033691,Positive
+kids-light-up-sneakers-7,2023-01-15,2023-01-15T00:00:00,5,These sneakers are worth every penny! They're durable and my kid loves them!,2025-12-23T15:43:57.750776,POSITIVE,0.9998084902763367,Positive
+hiking-boots-outdoor-8,2023-01-13,2023-01-13T00:00:00,3,"These are decent boots for hiking, but they took a while to break in.",2025-12-23T15:43:57.750817,NEGATIVE,0.9876278638839722,Negative
+classic-leather-sneakers-6,2023-01-10,2023-01-10T00:00:00,4,"Impressive build quality and comfort. However, I wish they were a bit cheaper.",2025-12-23T15:43:57.750860,POSITIVE,0.9948638081550598,Positive
+cat-ear-beanie-5,2023-01-10,2023-01-10T00:00:00,4,A must-have for cat lovers. It's adorable and keeps me warm during chilly weather.,2025-12-23T15:43:57.750900,POSITIVE,0.9998546838760376,Positive
+cat-ear-beanie-4,2022-12-25,2022-12-25T00:00:00,5,"I bought this for my daughter, and she adores it! It's become her favorite winter accessory.",2025-12-23T15:43:57.750942,POSITIVE,0.9998419284820557,Positive
+chocolate-candy-box-6,2022-12-18,2022-12-18T00:00:00,5,"Bought the large box, and it's lasted quite a while. Great for when you need a sweet treat.",2025-12-23T15:43:57.750983,POSITIVE,0.9998445510864258,Positive
+women-sandals-7,2022-12-18,2022-12-18T00:00:00,5,These sandals are a must-have! They look amazing and feel great.,2025-12-23T15:43:57.751025,POSITIVE,0.9998792409896851,Positive
+hiking-boots-outdoor-7,2022-12-07,2022-12-07T00:00:00,5,Great traction and support. My feet stayed dry even in wet conditions.,2025-12-23T15:43:57.751066,NEGATIVE,0.7891552448272705,Negative
+men-running-shoes-6,2022-11-25,2022-11-25T00:00:00,3,"Shoes are okay, but the cushioning could be better.",2025-12-23T15:43:57.751104,POSITIVE,0.5497907400131226,Positive
+kids-light-up-sneakers-6,2022-11-25,2022-11-25T00:00:00,3,The shoes are great but the battery life for the lights could be better.,2025-12-23T15:43:57.751144,NEGATIVE,0.9795312881469727,Negative
+women-sandals-6,2022-11-20,2022-11-20T00:00:00,3,"Beautiful shoes, but not very comfortable. Good for short-term wear.",2025-12-23T15:43:57.751240,POSITIVE,0.9769036173820496,Positive
+classic-leather-sneakers-5,2022-11-20,2022-11-20T00:00:00,5,Was looking for a good pair of white sneakers and these fit the bill. Excellent quality and design.,2025-12-23T15:43:57.751309,POSITIVE,0.9990917444229126,Positive
+hiking-boots-outdoor-6,2022-11-10,2022-11-10T00:00:00,5,These boots are perfect for hiking. They're comfortable and provide excellent support.,2025-12-23T15:43:57.751360,POSITIVE,0.9998550415039062,Positive
+chocolate-candy-box-5,2022-11-05,2022-11-05T00:00:00,4,"A bit pricey, but the quality of the chocolate is worth it.",2025-12-23T15:43:57.751408,POSITIVE,0.9998667240142822,Positive
+hiking-boots-outdoor-5,2022-10-19,2022-10-19T00:00:00,5,"Great boots! The size was perfect, and they're very comfortable.",2025-12-23T15:43:57.751456,POSITIVE,0.9998812675476074,Positive
+women-sandals-5,2022-10-14,2022-10-14T00:00:00,4,"Great quality for the price. The buckle closure is secure, and the heel feels sturdy.",2025-12-23T15:43:57.751500,POSITIVE,0.9992951154708862,Positive
+men-running-shoes-5,2022-10-05,2022-10-05T00:00:00,4,"Good shoes, but they run a little small. I'd recommend ordering a half size up.",2025-12-23T15:43:57.751543,NEGATIVE,0.6967016458511353,Negative
+kids-light-up-sneakers-5,2022-10-05,2022-10-05T00:00:00,4,"Nice design and the lights are bright. However, they run a bit small. Order a size up.",2025-12-23T15:43:57.751586,POSITIVE,0.6058564186096191,Positive
+cat-ear-beanie-3,2022-10-05,2022-10-05T00:00:00,3,"Great beanie, but I wish there were more colors available. The cat ears design is really nice.",2025-12-23T15:43:57.751628,POSITIVE,0.9997256398200989,Positive
+chocolate-candy-box-4,2022-10-02,2022-10-02T00:00:00,5,The cherry flavor is amazing. Will be buying more.,2025-12-23T15:43:57.751671,POSITIVE,0.999874472618103,Positive
+hiking-boots-outdoor-4,2022-09-28,2022-09-28T00:00:00,4,"These boots are durable and comfortable, but they're a bit heavy.",2025-12-23T15:43:57.751713,NEGATIVE,0.9187922477722168,Negative
+women-sandals-4,2022-09-27,2022-09-27T00:00:00,3,"The sandals are pretty, but the heel is higher than I expected.",2025-12-23T15:43:57.751754,POSITIVE,0.9979238510131836,Positive
+cat-ear-beanie-2,2022-09-20,2022-09-20T00:00:00,4,"A cozy and unique beanie. Received a lot of compliments. Plus, it's cat-themed, so that's a win for me!",2025-12-23T15:43:57.751796,POSITIVE,0.9998774528503418,Positive
+men-running-shoes-4,2022-09-15,2022-09-15T00:00:00,5,"Best running shoes I've had in a while. They're really comfortable, even on long runs.",2025-12-23T15:43:57.751839,POSITIVE,0.9998080134391785,Positive
+kids-light-up-sneakers-4,2022-09-15,2022-09-15T00:00:00,4,Comfortable and fun! My child loves showing off the light-up feature to friends.,2025-12-23T15:43:57.751881,POSITIVE,0.9998830556869507,Positive
+classic-leather-sneakers-4,2022-09-12,2022-09-12T00:00:00,3,They're nice shoes but they felt a little tight at first. They loosened up after a few days though.,2025-12-23T15:43:57.751921,POSITIVE,0.8111271262168884,Positive
+chocolate-candy-box-3,2022-09-10,2022-09-10T00:00:00,5,Nice variety of flavors. The chocolate is rich and smooth.,2025-12-23T15:43:57.751965,POSITIVE,0.9998838901519775,Positive
+chocolate-candy-box-2,2022-08-16,2022-08-16T00:00:00,4,"I bought these as a gift, and they were well received. Will definitely purchase again.",2025-12-23T15:43:57.752010,POSITIVE,0.9998778104782104,Positive
+hiking-boots-outdoor-3,2022-08-15,2022-08-15T00:00:00,4,Good quality boots. They keep my feet dry and comfortable during long hikes.,2025-12-23T15:43:57.752052,POSITIVE,0.9997811913490295,Positive
+men-running-shoes-3,2022-08-10,2022-08-10T00:00:00,3,"These shoes look good, but they wore out a bit faster than I expected.",2025-12-23T15:43:57.752093,NEGATIVE,0.9983672499656677,Negative
+kids-light-up-sneakers-3,2022-08-10,2022-08-10T00:00:00,3,"Cool shoes, but the lights stopped working after a few weeks.",2025-12-23T15:43:57.752134,NEGATIVE,0.9980431795120239,Negative
+classic-leather-sneakers-3,2022-08-07,2022-08-07T00:00:00,5,I got the black ones and they look sleek. Got compliments on the first day I wore them out.,2025-12-23T15:43:57.752178,POSITIVE,0.999276340007782,Positive
+women-sandals-3,2022-08-03,2022-08-03T00:00:00,5,Absolutely love these sandals! They're so elegant and surprisingly comfortable.,2025-12-23T15:43:57.752219,POSITIVE,0.9998863935470581,Positive
+hiking-boots-outdoor-2,2022-07-30,2022-07-30T00:00:00,5,Comfortable and sturdy. Perfect for outdoor adventures.,2025-12-23T15:43:57.752261,POSITIVE,0.9998775720596313,Positive
+chocolate-candy-box-1,2022-07-22,2022-07-22T00:00:00,5,Absolutely delicious! The orange flavor is my favorite.,2025-12-23T15:43:57.752303,POSITIVE,0.9998788833618164,Positive
+men-running-shoes-2,2022-07-20,2022-07-20T00:00:00,4,Very happy with my purchase. These shoes provide good support for my morning jogs.,2025-12-23T15:43:57.752344,POSITIVE,0.9998735189437866,Positive
+kids-light-up-sneakers-2,2022-07-20,2022-07-20T00:00:00,5,"Bought these for my son's birthday, and they were the star of the party. Great shoes!",2025-12-23T15:43:57.752385,POSITIVE,0.9998519420623779,Positive
+women-sandals-2,2022-07-18,2022-07-18T00:00:00,4,"These sandals look great, but they're a bit tight. Maybe they'll stretch over time.",2025-12-23T15:43:57.752425,NEGATIVE,0.9382975101470947,Negative
+cat-ear-beanie-1,2022-07-15,2022-07-15T00:00:00,5,"Love this Cat Ear Beanie! It's so cute and surprisingly warm. The material is so soft, and the cat ears are a nice touch!",2025-12-23T15:43:57.752467,POSITIVE,0.9998829364776611,Positive
+classic-leather-sneakers-2,2022-07-10,2022-07-10T00:00:00,4,I love the classic design of these sneakers. They match well with my outfits. The leather is of top quality.,2025-12-23T15:43:57.752507,POSITIVE,0.9998236298561096,Positive
+men-running-shoes-1,2022-07-01,2022-07-01T00:00:00,5,"Great shoes for running! Comfortable and stylish, with excellent traction.",2025-12-23T15:43:57.752551,POSITIVE,0.999876856803894,Positive
+kids-light-up-sneakers-1,2022-07-01,2022-07-01T00:00:00,5,My daughter loves these shoes! She doesn't want to take them off. They're comfortable and the lights are a big hit.,2025-12-23T15:43:57.752597,POSITIVE,0.9996999502182007,Positive
+hiking-boots-outdoor-1,2022-06-15,2022-06-15T00:00:00,5,These boots are fantastic for hiking. The grip on the soles is really good.,2025-12-23T15:43:57.752641,POSITIVE,0.9998427629470825,Positive
+classic-leather-sneakers-1,2022-06-15,2022-06-15T00:00:00,5,"These shoes are not only stylish, but also super comfortable. They're perfect for any occasion!",2025-12-23T15:43:57.752683,POSITIVE,0.9998685121536255,Positive
+women-sandals-1,2022-06-12,2022-06-12T00:00:00,5,Stylish and comfortable! I love the strappy design.,2025-12-23T15:43:57.752727,POSITIVE,0.9998836517333984,Positive
